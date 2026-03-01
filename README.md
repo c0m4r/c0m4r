@@ -3,15 +3,15 @@
 ## AI
 
 * [free-ai-hub](https://github.com/c0m4r/free-ai-hub) - A curated list of free AI chatbots and tools.
-* [kurczak](https://github.com/c0m4r/kurczak) - Minimal Ollama chat UI - no login, no heavy features.
+* 🐣 [kurczak](https://github.com/c0m4r/kurczak) - Minimal Ollama chat UI - no login, no heavy features.
 
 ## Monitoring
 
-* [kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux® server monitoring tool
+* 🔮 [kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux® server monitoring tool
 
 ## Security
 
-* [paranoya](https://github.com/c0m4r/paranoya) - Simple IOC and YARA scanner for Linux®
+* 🛡️ [paranoya](https://github.com/c0m4r/paranoya) - Simple IOC and YARA scanner for Linux®
 
 ## ESP32
 
