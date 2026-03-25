@@ -2,6 +2,7 @@
 
 * 🔮 [kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux® server monitoring tool
 * 🐣 [kurczak](https://github.com/c0m4r/kurczak) - Minimal Ollama chat UI - no login, no heavy features.
+* 🔓 [iptables-analyzer](https://github.com/c0m4r/iptables-analyzer) - CLI tool for auditing iptables rules
 * 🛡️ [paranoya](https://github.com/c0m4r/paranoya) - Simple IOC and YARA scanner for Linux®
 * 🎮 [arkanoo](https://github.com/c0m4r/arkanoo) - A fully-featured Arkanoid/Breakout game written in Rust.
 * 💸 [free-ai-hub](https://github.com/c0m4r/free-ai-hub) - A curated list of free AI chatbots and tools.
