@@ -1,6 +1,7 @@
 # My projects
 
 * 🔮 [kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux® server monitoring tool
+* 🪼 [Aurora](https://github.com/c0m4r/aurora) - A general-purpose AI assistant
 * 🐣 [kurczak](https://github.com/c0m4r/kurczak) - Minimal Ollama chat UI - no login, no heavy features.
 * 🔓 [iptables-analyzer](https://github.com/c0m4r/iptables-analyzer) - CLI tool for auditing iptables rules
 * 💻 [nic](https://github.com/c0m4r/nic) - A minimal, standalone network configuration tool for Linux®
