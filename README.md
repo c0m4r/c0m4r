@@ -1,7 +1,6 @@
 # My projects
 
 * 🔮 [kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux® server monitoring tool
-* 🦉 [sowa](https://github.com/c0m4r/sowa) - Experimental Linux distribution for servers and headless machines
 * 🪼 [aurora](https://github.com/c0m4r/aurora) - A general-purpose AI assistant
 * 🐣 [kurczak](https://github.com/c0m4r/kurczak) - Minimal Ollama chat UI - no login, no heavy features.
 * 💻 [nic](https://github.com/c0m4r/nic) - A minimal, standalone network configuration tool for Linux®
